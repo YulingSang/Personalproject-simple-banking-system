@@ -3,7 +3,9 @@
 This simple bank system includes 10 java file.
 
 The entity class includes: Account, CurrentAccount, JuniorAccount, SaverAccount, Customer, Transaction, Deposit, Withdrawal
+
 The boundary class includes: BankUI
+
 The control class includes: BankControl
 
 -------------------------------------------------------
